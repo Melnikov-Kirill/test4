@@ -1,0 +1,270 @@
+div.verh{
+    width: 100%;
+    height: 3%;
+    position: relative;
+    float: top;
+}
+p.st{
+    color: mediumblue;
+    margin-left:150px;
+}
+div.strict{
+    width: 100%;
+    height: 100%;
+}
+div.strict{
+    background-size: cover;
+    position: absolute;
+    background-image: url(886.jpg);
+    
+}
+div.text{
+    position:absolute;
+    width: 100%;
+    height: 40%;
+    background-color:#F3F2F2;
+    margin-top: 40%;
+    
+}
+h2{
+    font-size: 150%;
+    color: cursive solid black;
+    text-align: center;
+}
+h3{
+    color: gainsboro;
+    text-align: center;
+    font-size: 15px;
+    font-family: Arial;
+    
+}
+div.main{
+    width: 100%;
+    height: 60%;
+    position: absolute;
+    margin-top: 59%;
+}
+div.on1{
+    width: 70px;
+    height: 70px;
+    background-image: url(icon1.png);
+    position: absolute;
+    background-size: cover;
+    margin-left: 16%;
+    margin-top: 5%;
+    
+}
+div.two{
+    width: 70px;
+    height: 70px;
+    background-image: url(icon2.png);
+    position: absolute; 
+    margin-left: 48%;
+    background-size: cover;
+    margin-top: 5%;
+    
+}
+div.tre{
+    width: 70px;
+    height: 70px;
+    background-image: url(icon3.png);
+    position: absolute; 
+    background-size: cover;
+    margin-left: 80%;
+    margin-top: 5%;
+    text-align: center;
+}
+div.four{
+    width: 25%;
+    height: 23%;
+    position: absolute;
+    margin-left: 7%;
+    margin-top: 12%;
+    text-align: center;
+    color: gray;
+}
+h4{
+    font-size: 20px;
+    color: black;
+}
+div.five{
+    width: 25%;
+    height: 23%;
+    position: absolute;
+    margin-left: 39%;
+    margin-top: 11%;
+    text-align: center;
+    color: gray;
+}
+h5{
+    font-size: 20px;
+    color: black;
+}
+div.six{
+    width: 25%;
+    height: 23%;
+    position: absolute;
+    margin-left: 71%;
+    margin-top: 9.5%;
+    text-align: center;
+    color: gray;
+}
+h6{
+    font-size: 20px;
+    color: black;
+}
+div.kar{
+    width: 100%;
+    height: 190%;
+    position: absolute;
+    margin-top: 27.5%;
+    background-color: #F3F2F2;
+    
+}
+div.text2{
+    width: 50%;
+    height: 20%;
+    position: absolute;
+    margin-left: 24%;
+    margin-top: 5%;
+    text-align: center;
+}
+h7{
+    font-size: 35px;
+    color: cursive black;
+}
+div.kar1{
+    width: 20%;
+    height: 33%;
+    position: absolute;
+    margin-left: 12%;
+    margin-top: 15%;  
+    background-image: url(photo1.jpg);
+    background-size: cover;
+}
+div.kar2{
+    width: 20%;
+    height: 33%;
+    position: absolute;
+    margin-left: 34%;
+    margin-top: 15%;
+    background-image: url(photo2.jpg);
+    background-size: cover;
+}
+div.kar3{
+    width: 20%;
+    height: 33%;
+    position: absolute;
+    margin-left: 56%;
+    margin-top: 15%; 
+    background-image: url(photo3.jpg);
+    background-size: cover;
+}
+div.kar4{
+    width: 20%;
+    height: 33%;
+    position: absolute;
+    margin-left: 12%;
+    margin-top: 34.5%; 
+    background-image: url(photo4.jpg);
+    background-size: cover;
+}
+div.kar5{
+    width: 20%;
+    height: 33%;
+    position: absolute;
+    margin-left: 34%;
+    margin-top: 34.5%; 
+    background-image: url(photo5.jpg);
+    background-size: cover;
+}
+div.kar6{
+    width: 20%;
+    height: 33%;
+    position: absolute;
+    margin-left: 56%;
+    margin-top: 34.5%; 
+    background-image: url(photo6.jpg);
+    background-size: cover;
+        
+}
+div.reg{
+    width: 100%;
+    height: 150%;
+    position: absolute;
+    border: 1px solid black;
+    margin-top: 80%;
+    background-image: url(490.jpg);
+    background-size: cover;
+        
+}
+input.reg{
+    width: 500px;
+    height: 50px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    margin-left: 20%;
+    margin-top: 3%;
+    background-color: #000000;
+    opacity: 1;
+    color: white;
+    
+}
+input.mas{
+    width: 500px;
+    height: 100px;
+        border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    margin-left: 20%;
+    margin-top: 3%;
+    background-color: #000000;
+    opacity: 1;
+    color: white;
+}
+div.footer{
+    width: 100%;
+    height: 20%;
+    position: absolute;
+    margin-top: 121.5%;
+    background-color: white;
+    text-align: left;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+div.fb{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    background-image: url(fb.png);
+    margin-left: 70%;
+    margin-top: -1%;
+    
+}
+div.tw{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    background-image: url(tw.png);
+    margin-left: 75%;
+    margin-top: -1%;
+}
+div.go{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    background-image: url(go.png);
+    margin-left: 80%;
+    margin-top: -1%;
+}
+div.li{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    background-image: url(li.png);
+    margin-left: 85%;
+    margin-top: -1%;
+}
